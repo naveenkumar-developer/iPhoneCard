@@ -1,7 +1,7 @@
 # IPHONE CARD
 
 ## Preview 📸
-
+Open the Project click [here](https://naveenkumar-developer.github.io/iPhoneCard/)
 ![iphone card](assets/IPHONECARD.png)
 
 ## Features 🚀
